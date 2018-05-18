@@ -3,6 +3,7 @@
     "description": "Mirror of apache thrift client lib of php",
     "type": "library",
     "license": "Apache-2.0",
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name": "JiangHao",
